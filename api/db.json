@@ -1,0 +1,22 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "title": "Natureza 1",
+      "url": "https://via.placeholder.com/300x200?text=Natureza+1",
+      "description": "Uma bela paisagem de natureza."
+    },
+    {
+      "id": 2,
+      "title": "Natureza 2",
+      "url": "https://via.placeholder.com/300x200?text=Natureza+2",
+      "description": "Uma montanha majestosa ao amanhecer."
+    },
+    {
+      "id": 3,
+      "title": "Cidade",
+      "url": "https://via.placeholder.com/300x200?text=Cidade",
+      "description": "Um panorama urbano vibrante."
+    }
+  ]
+}
