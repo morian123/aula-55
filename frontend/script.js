@@ -7,11 +7,12 @@ $.ajax({
         <div class="col-6 col-md-3">
           <img 
             src="${image.url}" 
-            alt="${image.description}" 
+            alt="${image.description}"
+            style="cursor: pointer;"
             class="img-thumbnail img-click" 
-            data-bs-toggle="modal" 
-            data-bs-target="#imageModal"
-            data-caption="${image.description}">
+              data-bs-toggle="modal" 
+              data-bs-target="#imageModal"
+              data-caption="${image.description}">
         </div>
       `);
     });
